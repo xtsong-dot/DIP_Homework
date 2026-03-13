@@ -1,11 +1,7 @@
-# DIP_Homework_1
-## Running
+
 # DIP Homework 1: Image Geometric Transformations
-
 This project implements two interactive image transformation tools as part of a Digital Image Processing assignment.
-
 ## Features
-
 - **Basic Geometric Transformations**: Scale, rotate, translate, and flip an image via an interactive interface.
 - **Point‑Guided Deformation**: Place corresponding points on an image to warp it interactively.
 
