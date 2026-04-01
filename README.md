@@ -100,7 +100,9 @@ python train.py
   * **FCN 网络** 能够学习到跨域的映射关系，虽然结构简单，但已能初步完成建筑生成的任务。
 
 
-
+## 02_Pix2Pix的训练代码已经上传到github中，训练的其他详细数据和结果详细图像见百度网盘中的压缩包
+通过网盘分享的文件：02_Pix2Pix.zip
+链接: https://pan.baidu.com/s/1jvXC1o5AHxxtFdHQACsaMA?pwd=3nev 提取码: 3nev
 
 
 
