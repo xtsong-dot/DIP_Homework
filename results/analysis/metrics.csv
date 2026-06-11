@@ -1,0 +1,4 @@
+epoch,checkpoint,l1,mse,psnr,ssim
+0,results\lego_hq\checkpoint_000000.pt,0.07245541,0.02791690,16.3367,0.6607
+15,results\lego_hq\checkpoint_000015.pt,0.02536724,0.00401821,24.0551,0.8688
+30,results\lego_hq\checkpoint_000030.pt,0.02180939,0.00311585,25.1488,0.8924
